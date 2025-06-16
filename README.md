@@ -30,7 +30,7 @@ I'm a student at Uludağ University, Bursa, majoring in Islamic Theology — but
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/album/238uTjoNla29DJqp92XCch)
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
